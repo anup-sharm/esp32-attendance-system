@@ -1,0 +1,14 @@
+# Build files 
+build/ 
+*.bin 
+*.elf 
+*.map 
+*.o 
+.vscode/ 
+.idea/ 
+*.swp 
+.DS_Store 
+Thumbs.db 
+managed_components/ 
+dependencies.lock 
+*.log 
